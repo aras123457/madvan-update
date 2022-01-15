@@ -1,0 +1,48 @@
+{
+	"storyName": "Madness vandalization",
+	"hideFreeplay": false,
+	"weekBackground": "vand",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"gabe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Vandalize",
+			"gabe",
+			[
+				46,
+				33,
+				33
+			]
+		],
+		[
+			"Kaboom",
+			"demoman",
+			[
+				126,
+				0,
+				133
+			]
+		],
+		[
+			"mag-four",
+			"magv4",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mad. Van."
+}
