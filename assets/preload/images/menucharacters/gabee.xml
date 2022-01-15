@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gabe.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vand0000" x="0" y="0" width="555" height="625"/>
+	<SubTexture name="vand0001" x="0" y="0" width="555" height="625"/>
+	<SubTexture name="vand0002" x="556" y="0" width="552" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0003" x="556" y="0" width="552" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0004" x="1109" y="0" width="550" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0005" x="0" y="626" width="544" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0006" x="545" y="626" width="544" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0007" x="545" y="626" width="544" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0008" x="1090" y="626" width="543" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+	<SubTexture name="vand0009" x="1090" y="626" width="543" height="625" frameX="0" frameY="0" frameWidth="555" frameHeight="625"/>
+</TextureAtlas>
